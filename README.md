@@ -95,6 +95,8 @@ The dataset contains LinkedIn job postings with information such as:
 
 Provides a high-level summary of the job market.
 
+![Executive Overview](screenshots/Overview.png)
+
 ### Key Metrics
 - Total Jobs
 - Top Hiring City
@@ -113,6 +115,8 @@ Provides a high-level summary of the job market.
 
 Analyzes technical skill demand across job postings.
 
+![Skills Intelligence](screenshots/skills.png)
+
 ### Key Metrics
 - Most In-Demand Skill
 - Top Programming Skill
@@ -128,6 +132,8 @@ Analyzes technical skill demand across job postings.
 ## 3. Hiring Landscape
 
 Provides a geographic and organizational view of hiring activity.
+
+![Hiring Landscape](screenshots/hiring_landscape.png)
 
 ### Key Metrics
 - Leading Hiring City
@@ -145,6 +151,8 @@ Provides a geographic and organizational view of hiring activity.
 ## 4. Competition Analysis
 
 Evaluates market competitiveness using application volume.
+
+![Competition Analysis](screenshots/competition_analysis.png)
 
 ### Key Metrics
 - Average Applications per Job
