@@ -223,3 +223,8 @@ LinkedIn-Job-Market-Analysis/
 Computer Engineering Student | Data Analytics Enthusiast
 
 **Skills:** Python • SQL • Power BI • Data Visualization • Business Intelligence
+
+### Connect With Me
+
+- LinkedIn: https://linkedin.com/in/janhvi-mishra-4ab72328a
+- GitHub: https://github.com/janhvi-mishra-data
