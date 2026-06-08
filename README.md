@@ -59,6 +59,8 @@ The dataset contains LinkedIn job postings with information such as:
 - Posting Date
 
 ---
+## Workflow Diagram
+![Dashboard Overview](screenshots/workflow.png)
 
 ## Data Processing Workflow
 
